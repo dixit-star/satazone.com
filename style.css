@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(166, 97, 77);
+}
+div{
+    display: flax;
+    
+}
+#img{
+    justify-self: center;
+    height: 150px;
+    
+
+  
+}
+#contant{
+    justify-self: center;
+    font-size: 20px;
+    line-height: 0.1;
+}
+input[type="text"]{
+    border: 2px solid;
+    
+}
+input[type="password"]{
+    border: 2px solid;
+    
+}
+input[type="email"]{
+    border: 2px solid;
+    
+}
+p3{
+   font-size: 20px;
+   text-decoration:none;
+}
+ 

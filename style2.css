@@ -1,0 +1,39 @@
+.nevbar{
+  background-color: rgb(233, 130, 19);
+  display:flex;
+ /* flex-direction: row; */
+  justify-content: center; 
+  justify-content: space-around;
+  border: 2px solid;
+
+}
+
+a{
+    text-decoration: none;  
+    
+ }
+samp{
+margin-left:-80px;
+}
+#contant{
+  height: 800px;
+}
+
+footer{
+  height: 300px;
+  color: aliceblue;
+  background-color: rgb(29, 29, 29);
+  padding-top: 50px;
+  padding-left: 100px;
+}
+div{
+  justify-content: center;
+  display: inline-block;
+}
+div2{
+  height: 20px;
+  width:2px;
+}
+div5{
+
+}
